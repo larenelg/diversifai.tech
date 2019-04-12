@@ -1,0 +1,46 @@
+html {
+    height: 100%;
+}
+
+.background-dark {
+    color: #fff;
+    background-image: linear-gradient(to bottom right, #330066, #73066A);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5em;
+    min-height: 100%;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.logo-font {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.small-text {
+    font-size: 0.8em;
+}
+
+a {
+    color: white;
+}
+
+.container {
+    padding: 10%;
+}
+
+.center {
+    text-align: center;
+}
+
+footer {
+    position: absolute;
+    bottom: 2em;
+    width: 100%;
+}
