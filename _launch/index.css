@@ -59,6 +59,6 @@ footer {
         font-size: 1em;
     }
     footer {
-        bottom: 0.5em;
+        display: none;
     }
 }
